@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chair",
+    "color": "Brown",
+    "type": "Furniture",
+    "structure": "Wooden"
+  },
+  {
+    "name": "Laptop",
+    "color": "Silver",
+    "type": "Electronics",
+    "structure": "Metal"
+  },
+  {
+    "name": "Book",
+    "color": "Multi-colored",
+    "type": "Stationery",
+    "structure": "Paper"
+  },
+  {
+    "name": "Pen",
+    "color": "Blue",
+    "type": "Stationery",
+    "structure": "Plastic"
+  },
+  {
+    "name": "Plant",
+    "color": "Green",
+    "type": "Decoration",
+    "structure": "Natural"
+  }
+]
